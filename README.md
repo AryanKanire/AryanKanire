@@ -13,26 +13,32 @@
 ## 💻 Skills
 
 ### **Languages**
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>
+</p>
 
 ### **Frameworks & Tools**
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png" alt="Zustand" width="50"/> <!-- Substitute Redux for Zustand -->
-<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="React Query" width="50"/> <!-- React Query does not have an official logo -->
+<p>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png" alt="Zustand" width="50"/> <!-- Substitute Redux for Zustand -->
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="React Query" width="50"/> <!-- React Query does not have an official logo -->
+</p>
 
 ### **Technologies**
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50"/> 
-<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="50"/> 
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-json-web-token-an-open-standard-used-for-sharing-security-information-between-parties-logo-shadow-tal-revivo.png" alt="JWT Authentication" width="50"/> 
-<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-socket-io-an-open-source-web-socket-library-filled-tal-revivo.png" alt="Socket.io" width="50"/>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50"/> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="50"/> 
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-json-web-token-an-open-standard-used-for-sharing-security-information-between-parties-logo-shadow-tal-revivo.png" alt="JWT Authentication" width="50"/> 
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-socket-io-an-open-source-web-socket-library-filled-tal-revivo.png" alt="Socket.io" width="50"/>
+</p>
 
 ## 🚀 Projects
 ### [Learning Management System (LMS)](https://github.com/AryanKanire/LMS-Management)
