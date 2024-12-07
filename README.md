@@ -13,27 +13,26 @@
 ## 💻 Skills
 
 ### **Languages**
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>
 
 ### **Frameworks & Tools**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-663399?logo=redux&logoColor=white) <!-- Zustand doesn't have an official badge -->
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express" width="50"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png" alt="Zustand" width="50"/> <!-- Substitute Redux for Zustand -->
+<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="React Query" width="50"/> <!-- React Query does not have an official logo -->
 
 ### **Technologies**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![JWT Authentication](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
-
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50"/> 
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="50"/> 
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-json-web-token-an-open-standard-used-for-sharing-security-information-between-parties-logo-shadow-tal-revivo.png" alt="JWT Authentication" width="50"/> 
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-socket-io-an-open-source-web-socket-library-filled-tal-revivo.png" alt="Socket.io" width="50"/>
 
 ## 🚀 Projects
 ### [Learning Management System (LMS)](https://github.com/AryanKanire/LMS-Management)
