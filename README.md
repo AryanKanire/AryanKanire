@@ -9,7 +9,7 @@
   - GitHub: [github.com/AryanKanire](https://github.com/AryanKanire)
   - LinkedIn: [linkedin.com/in/aryan-kanire-b6b665257](https://www.linkedin.com/in/aryan-kanire-b6b665257)
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I’ve solved over 350+ DSA problems across platforms, enhancing my algorithmic skills!
+- ⚡ **Fun Fact**: I’ve solved over 550+ DSA problems across platforms, enhancing my algorithmic skills!
 ## 💻 Skills
 
 ### **Languages**
