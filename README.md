@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there%2C+I'm+Aryan+Kanire+👋" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&width=500&lines=Full-Stack+Developer+;Problem+Solver+;Tech+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -15,10 +15,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I'm a final-year Electronics and Telecommunication student at **Pune Institute of Computer Technology** [cite: 10] with a strong passion for software development. [cite_start]My primary interests lie in building full-stack web applications [cite: 6] [cite_start]and solving complex problems with efficient, scalable code[cite: 8]. I'm currently deepening my expertise in advanced MERN stack technologies and web performance optimization. I'm always looking for opportunities to collaborate on innovative, open-source projects.
+Hello! I'm a **Full-Stack Developer** and a final-year student at the **Pune Institute of Computer Technology**. I specialize in building dynamic, real-time web applications using the MERN stack. From architecting collaborative platforms to engineering emergency alert systems, I thrive on turning ideas into scalable, efficient code.
 
-- [cite_start]📧 **Email**: `aryankanire@gmail.com` [cite: 4]
-- [cite_start]🔗 **LinkedIn**: [linkedin.com/in/aryan-kanire](https://linkedin.com/in/aryan-kanire) [cite: 5]
+I'm passionate about system design and continuously enhancing application performance. Currently, I'm sharpening my skills in advanced state management tools and exploring new ways to optimize the user experience. I'm actively seeking a software development role where I can contribute to innovative projects and collaborate with a talented team.
+
+- 📧 **Email**: `aryankanire@gmail.com`
+- 🔗 **LinkedIn**: [linkedin.com/in/aryan-kanire](https://linkedin.com/in/aryan-kanire)
 - 🐦 **X (Twitter)**: [x.com/rnkanire](https://x.com/rnkanire)
 
 ---
@@ -40,7 +42,7 @@
     <td width="50%">
       <h3 align="center">EduConnect | Collaborative Learning Platform</h3>
       <div align="center">
-        <p>A collaborative learning platform built as part of an in-house internship. [cite_start]Features real-time messaging, assignment tracking, and role-based access for students, teachers, and admins[cite: 12, 13].</p>
+        <p>A collaborative learning platform built as part of an in-house internship. Features real-time messaging, assignment tracking, and role-based access for students, teachers, and admins.</p>
         <p><b>Tech Stack:</b></p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -54,7 +56,7 @@
     <td width="50%">
       <h3 align="center">Learning Management System (LMS)</h3>
       <div align="center">
-        [cite_start]<p>A full-stack MERN application with PayPal integration for secure payments[cite: 19]. [cite_start]Includes admin tools for course management, user analytics, and role-based dashboards for all users[cite: 20, 22].</p>
+        <p>A full-stack MERN application with PayPal integration for secure payments. Includes admin tools for course management, user analytics, and role-based dashboards for all users.</p>
         <p><b>Tech Stack:</b></p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -70,7 +72,7 @@
     <td colspan="2">
       <h3 align="center">QRaksha | Emergency QR Alert System</h3>
       <div align="center">
-        [cite_start]<p>A hackathon project engineered to be a real-time emergency alert system using QR scanning and Socket.IO for instant dispatch[cite: 24]. [cite_start]Admins can monitor alerts and manage employee health profiles in real-time[cite: 27].</p>
+        <p>A hackathon project engineered to be a real-time emergency alert system using QR scanning and Socket.IO for instant dispatch. Admins can monitor alerts and manage employee health profiles in real-time.</p>
         <p><b>Tech Stack:</b></p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -87,7 +89,7 @@
 ---
 
 ### 🏆 Achievements & Accomplishments
-- [cite_start]**LeetCode**: Solved **650+ DSA problems**, significantly improving algorithmic thinking and problem-solving skills[cite: 34].
-- [cite_start]**Citi Bridge Hackathon**: Selected among the **top 100 students** for Round 2[cite: 35].
-- [cite_start]**Hackathon Finalist**: Participated in the 2nd rounds of the **Cummins Hackathon** and **WEB WEAVER** hackathon[cite: 36].
-- [cite_start]**Community Service**: Active member of the **NSS (National Service Scheme)**, contributing to various community initiatives[cite: 37].
+- **LeetCode**: Solved **650+ DSA problems**, significantly improving algorithmic thinking and problem-solving skills.
+- **Citi Bridge Hackathon**: Selected among the **top 100 students** for Round 2.
+- **Hackathon Finalist**: Participated in the 2nd rounds of the **Cummins Hackathon** and **WEB WEAVER** hackathon.
+- **Community Service**: Active member of the **NSS (National Service Scheme)**, contributing to various community initiatives.
