@@ -1,55 +1,114 @@
 # 👋 Hi, I’m Aryan Kanire
 
-- 📫 **Email**: [aryankanire@gmail.com](mailto:aryankanire@gmail.com)
-- 🐦 **X**: [x.com/rnkanire](https://x.com/rnkanire)
--  GitHub: [github.com/AryanKanire](https://github.com/AryanKanire)
-- 🔗 **LinkedIn**: [linkedin.com/in/aryan-kanire](https://linkedin.com/in/aryan-kanire)
 
----
 
-### **Summary**
-[cite_start]A final-year ENTC student with hands-on experience in building full-stack web applications using the MERN stack[cite: 6]. [cite_start]I have a strong foundation in data structures, system design, and real-time application development[cite: 7]. [cite_start]I am eager to apply my technical and problem-solving skills in a challenging software development role[cite: 8].
+- 🌟 **Education**: Pursuing ENTC at Pune Institute of Computer Technology (2022-2026).
 
----
+- 👀 **Interests**: Software Development, Full Stack Development, and Problem-Solving.
 
-### **Education**
-- [cite_start]**Pune Institute of Computer Technology, Pune** (2022—2026 expected) [cite: 10]
-  - [cite_start]B.E. in ENTC, CGPA: 8.55 [cite: 10]
+- 🌱 **Currently Learning**: Advanced MERN stack technologies, state management tools, and optimizing web performance.
 
----
+- 💞️ **Looking to Collaborate On**: Full-stack web applications, open-source projects, and innovative tech solutions.
 
-### **Skills**
-- [cite_start]**Languages**: C++, Python, C, JavaScript, TypeScript [cite: 30]
-- [cite_start]**Databases**: MySQL, MongoDB [cite: 31]
-- [cite_start]**Technologies/Frameworks**: React, Express.js, Node.js, HTML, CSS, Next.js, RESTful APIs [cite: 32]
-- [cite_start]**Core Concepts**: OOP, DSA, Operating Systems, DBMS, Computer Networks, System Design [cite: 32]
-- [cite_start]**Developer Tools**: Git, GitHub, VS Code, PyCharm, Figma, Postman [cite: 32]
+- 📫 **Reach Me At**:
+  - Email: [aryankanire@gmail.com](mailto:aryankanire@gmail.com)
+  - X: [x.com/rnkanire](https://x.com/rnkanire)
+  - GitHub: [github.com/AryanKanire](https://github.com/AryanKanire)
+  - LinkedIn: [linkedin.com/in/aryan-kanire-b6b665257](https://www.linkedin.com/in/aryan-kanire-b6b665257)
 
----
+- 😄 **Pronouns**: He/Him
 
-### **🚀 Projects**
+- ⚡ **Fun Fact**: I’ve solved over 550+ DSA problems across platforms, enhancing my algorithmic skills!
 
-#### **EduConnect | Collaborative Learning Platform (In-house internship)**
+## 💻 Skills
+
+
+
+### **Languages**
+
+<p>
+
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>
+
+</p>
+
+
+
+### **Frameworks & Tools**
+
+<p>
+
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/> 
+
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express" width="50"/>
+
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 
+
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png" alt="Zustand" width="50"/> <!-- Substitute Redux for Zustand -->
+
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="React Query" width="50"/> <!-- React Query does not have an official logo -->
+
+</p>
+
+
+
+### **Technologies**
+
+<p>
+
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50"/> 
+
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="50"/> 
+
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-json-web-token-an-open-standard-used-for-sharing-security-information-between-parties-logo-shadow-tal-revivo.png" alt="JWT Authentication" width="50"/> 
+
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-socket-io-an-open-source-web-socket-library-filled-tal-revivo.png" alt="Socket.io" width="50"/>
+
+</p>
+
+
+
+## 🚀 Projects
+### EduConnect | Collaborative Learning Platform (In-house internship) - [Live](https://edu-connect-frontend.vercel.app/) | [Code](https://github.com/AryanKanire/EduConnect-Collaborative-Learning-Platform)
 - [cite_start]Built a collaborative platform using Next.js, Express.js, MongoDB, and Socket.IO[cite: 12].
-- [cite_start]Implemented JWT and bcrypt for role-based authentication (student/teacher/admin) [cite: 13] [cite_start]and enabled real-time messaging, assignment tracking, and notifications via Socket.IO[cite: 13].
-- [cite_start]Integrated Multer and Cloudinary for file uploads [cite: 14] [cite_start]and designed a responsive UI with Tailwind CSS[cite: 15].
-- [cite_start]Developed an admin dashboard for analytics, user control, and content moderation[cite: 16].
+- [cite_start]Enabled role-based access (student/teacher/admin) via JWT and bcrypt authentication[cite: 13].
+- [cite_start]Implemented real-time messaging, assignment tracking, and notifications using Socket.IO[cite: 13].
+- [cite_start]Added file upload functionality for assignments using Multer and Cloudinary[cite: 14].
 
-#### **Learning Management System (LMS)**
-- [cite_start]Developed a full-stack LMS using the MERN stack, featuring secure payment integration with PayPal[cite: 19].
-- [cite_start]Implemented JWT authentication for role-based access (students, instructors, admins)[cite: 20].
-- [cite_start]Designed a responsive UI in React.js [cite: 21] [cite_start]and created tools for course management, user administration, and analytics[cite: 22].
+### Learning Management System (LMS) - [Code](https://github.com/AryanKanire/LMS-Management)
+- [cite_start]Built a full-stack LMS using the MERN stack with PayPal integration for secure payments[cite: 19].
+- [cite_start]Added JWT authentication and role-based access for students, instructors, and administrators[cite: 20].
+- [cite_start]Enabled real-time course tracking, lecture completion status, and student dashboards[cite: 22].
+- [cite_start]Developed admin tools for course CRUD operations, user management, and analytics[cite: 22].
 
-#### **QRaksha | Emergency QR Alert System (Hackathon Project)**
-- [cite_start]Engineered a real-time emergency alert system that uses QR scanning and Socket.IO for instant dispatch[cite: 24].
-- [cite_start]Generated dynamic QRs with embedded health data using `qrcode npm` [cite: 25] [cite_start]and built a dual-role (Admin/Employee) system with JWT-based authentication[cite: 26].
-- [cite_start]Developed editable health profiles that automatically update the corresponding QR codes[cite: 27].
-- [cite_start]Created a real-time admin portal to monitor alerts, track responses, and manage employees[cite: 27].
+### QRaksha | Emergency QR Alert System (Hackathon Project) - [Code](https://github.com/AryanKanire/QRaksha-Emergency-QR-Alert-System)
+- [cite_start]Engineered a real-time alert system using QR scanning and Socket.IO for instant dispatch[cite: 24].
+- [cite_start]Used the `qrcode` npm package to generate dynamic QRs embedding health data and profile URLs[cite: 25].
+- [cite_start]Built a dual-role system (Admin/Employee) with JWT-based authentication and secure session control[cite: 26].
+- [cite_start]Developed a real-time admin portal to monitor alerts, track responses, and manage employees[cite: 27].
 
----
 
-### **🏆 Academic and Extracurricular Achievements**
-- [cite_start]Solved **650+** DSA problems on Leetcode, enhancing problem-solving skills and algorithmic thinking[cite: 34].
-- [cite_start]Selected among the **top 100 students** for Round 2 of the Citi Bridge Hackathon[cite: 35].
-- [cite_start]Participated in the Cummins Hackathon (2nd round) and WEB WEAVER (2nd round)[cite: 36].
-- [cite_start]Active member of the **NSS (National Service Scheme)**, contributing to various community service initiatives[cite: 37].
+
+
+Looking forward to connecting and collaborating on exciting projects! 🚀
+
+
+
+AryanKanire/AryanKanire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+You can click the Preview link to take a look at your changes.
+
+--->
+
