@@ -77,7 +77,7 @@ I'm passionate about <b style="color:#F08080;">system design</b> and continuousl
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Learning Management System (LMS)</h3>
+      <h3 align="center">Knowverse</h3>
       <div align="center">
         <p>A full-stack MERN application with PayPal integration for secure payments. Includes admin tools for course management, user analytics, and role-based dashboards for all users.</p>
         <p><b>Tech Stack:</b></p>
