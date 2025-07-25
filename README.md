@@ -15,13 +15,21 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm a **Full-Stack Developer** and a final-year student at the **Pune Institute of Computer Technology**. I specialize in building dynamic, real-time web applications using the MERN stack. From architecting collaborative platforms to engineering emergency alert systems, I thrive on turning ideas into scalable, efficient code.
+Hello! I'm a <b style="color:#00BFFF;">Full-Stack Developer</b> and a final-year student at the **Pune Institute of Computer Technology**. I specialize in building dynamic, real-time web applications using the <b style="color:#38B2AC;">MERN stack</b>. From architecting collaborative platforms to engineering emergency alert systems, I thrive on turning ideas into scalable, efficient code.
 
-I'm passionate about system design and continuously enhancing application performance. Currently, I'm sharpening my skills in advanced state management tools and exploring new ways to optimize the user experience. I'm actively seeking a software development role where I can contribute to innovative projects and collaborate with a talented team.
+I'm passionate about <b style="color:#F08080;">system design</b> and continuously enhancing application performance. Currently, I'm sharpening my skills in advanced state management tools and exploring new ways to optimize the user experience. I'm actively seeking a <b style="color:#00BFFF;">software development role</b> where I can contribute to innovative projects and collaborate with a talented team.
 
-- 📧 **Email**: `aryankanire@gmail.com`
-- 🔗 **LinkedIn**: [linkedin.com/in/aryan-kanire](https://linkedin.com/in/aryan-kanire)
-- 🐦 **X (Twitter)**: [x.com/rnkanire](https://x.com/rnkanire)
+<div align="left">
+  <a href="mailto:aryankanire@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/aryan-kanire" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/rnkanire" target="_blank">
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+</div>
 
 ---
 
