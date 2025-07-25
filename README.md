@@ -23,7 +23,7 @@ I'm passionate about <b style="color:#F08080;">system design</b> and continuousl
   <a href="mailto:aryankanire@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/aryan-kanire" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-kanire-b6b665257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/rnkanire" target="_blank">
