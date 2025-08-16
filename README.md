@@ -87,7 +87,7 @@ I'm passionate about <b style="color:#F08080;">system design</b> and continuousl
           <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
           <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
         </p>
-        <a href="https://github.com/AryanKanire/LMS-Management" target="_blank"><b>View Code</b></a>
+        <a href="https://github.com/AryanKanire/Knowverse" target="_blank"><b>View Code</b></a>
       </div>
     </td>
   </tr>
