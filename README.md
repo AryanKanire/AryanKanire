@@ -73,7 +73,7 @@ I'm passionate about <b style="color:#F08080;">system design</b> and continuousl
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         </p>
-        <a href="https://github.com/AryanKanire/EduConnect-Collaborative-Learning-Platform" target="_blank"><b>View Code</b></a>
+        <a href="https://github.com/AryanKanire/EduConnect" target="_blank"><b>View Code</b></a>
       </div>
     </td>
     <td width="50%">
@@ -103,7 +103,7 @@ I'm passionate about <b style="color:#F08080;">system design</b> and continuousl
           <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         </p>
-        <a href="https://github.com/AryanKanire/QRaksha-Emergency-QR-Alert-System" target="_blank"><b>View Code</b></a>
+        <a href="https://github.com/AryanKanire/QRaksha" target="_blank"><b>View Code</b></a>
       </div>
     </td>
   </tr>
