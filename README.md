@@ -91,22 +91,25 @@ I'm passionate about <b style="color:#F08080;">system design</b> and continuousl
       </div>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">QRaksha | Emergency QR Alert System</h3>
-      <div align="center">
-        <p>A hackathon project engineered to be a real-time emergency alert system using QR scanning and Socket.IO for instant dispatch. Admins can monitor alerts and manage employee health profiles in real-time.</p>
-        <p><b>Tech Stack:</b></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-          <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        </p>
-        <a href="https://github.com/AryanKanire/QRaksha" target="_blank"><b>View Code</b></a>
-      </div>
-    </td>
-  </tr>
+<tr>
+  <td colspan="2">
+    <h3 align="center">MemoryForge | AI-Powered Spaced Repetition Learning Platform</h3>
+    <div align="center">
+      <p>An AI-powered full-stack learning platform featuring adaptive spaced repetition, AI-generated flashcards, analytics dashboards, and interactive knowledge graph visualization for personalized learning.</p>
+      <p><b>Tech Stack:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/BullMQ-EA4335?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      </p>
+      <a href="https://github.com/AryanKanire/MemoryForge----AI-Powered-Spaced-Repetition-Learning-Platform" target="_blank"><b>View Code</b></a>
+    </div>
+  </td>
+</tr>
 </table>
 
 ---
